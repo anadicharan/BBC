@@ -37,21 +37,3 @@
 6. By clicking any news story user will be redirected to single article page where he can read whole article.
 ![<SinglePage>](https://tgdown.eu-gb.mybluemix.net/7805727598280640/2021-03-15_10:13:56.jpg)
 
-***
-
-## Team Members and Contributors
-
-### Priyanka Poshala
-- **Github** : https://github.com/priyanka-890
-
-### Pranit Jogwe
-- **Github** : https://github.com/pranit95
-
-### Akash Vaghela
-- **Github** : https://github.com/akashvaghela09
-
-### Abhinav Raj
-- **Github** : https://github.com/AbhinavRajSing
-
-### Bhairavesware Reddy
-- **Github** : https://github.com/BhairavReddy67
